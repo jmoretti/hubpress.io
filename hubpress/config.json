@@ -1,8 +1,9 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "jmoretti",
+    "repositoryName": "jmoretti.github.io",
+    "branch": "master",
+    "cname": "morettitech.com"
   },
   "theme": {
     "name": "Casper"
