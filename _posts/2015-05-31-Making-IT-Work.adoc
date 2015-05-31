@@ -1,0 +1,7 @@
+= Making IT Work
+:hp-tags: IT, Revolution
+:url-hubpress: http://itrevolution.com/manifesto/
+
+If you have worked in an IT organization and dreaded each new day or if you have ever been an environment when you had to do battle with an IT organization just to get anything done, then you a familar with why it is important {url-hubpress}[revolutionize IT]. Today. *Right now.*
+
+This blog is a collection of my thoughts and experiances as wellas resources I have found along my personal path to {url-hubpress}[revolutionize IT].
